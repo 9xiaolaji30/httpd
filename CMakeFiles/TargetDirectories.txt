@@ -1,0 +1,15 @@
+/home/user/Desktop/webui/CMakeFiles/httpd.dir
+/home/user/Desktop/webui/CMakeFiles/edit_cache.dir
+/home/user/Desktop/webui/CMakeFiles/rebuild_cache.dir
+/home/user/Desktop/webui/socket/CMakeFiles/socket.dir
+/home/user/Desktop/webui/socket/CMakeFiles/edit_cache.dir
+/home/user/Desktop/webui/socket/CMakeFiles/rebuild_cache.dir
+/home/user/Desktop/webui/http/CMakeFiles/http.dir
+/home/user/Desktop/webui/http/CMakeFiles/edit_cache.dir
+/home/user/Desktop/webui/http/CMakeFiles/rebuild_cache.dir
+/home/user/Desktop/webui/script_executor_project/CMakeFiles/script_executor_project.dir
+/home/user/Desktop/webui/script_executor_project/CMakeFiles/edit_cache.dir
+/home/user/Desktop/webui/script_executor_project/CMakeFiles/rebuild_cache.dir
+/home/user/Desktop/webui/string_handling/CMakeFiles/string_handling.dir
+/home/user/Desktop/webui/string_handling/CMakeFiles/edit_cache.dir
+/home/user/Desktop/webui/string_handling/CMakeFiles/rebuild_cache.dir
